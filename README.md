@@ -1,40 +1,41 @@
 # Login Form
 
-Login Form Built Using HTML, CSS and JavaScript.
+Login Form built using HTML, CSS and JavaScript — a clean, responsive login UI for learning and demos.
 
-A clean, responsive login form UI built with semantic HTML, modern CSS styling and a small amount of JavaScript for basic interactions and validation.
-
-![Preview](./Screenshot%25202024-08-10%2520234252.png)
+![Preview](https://raw.githubusercontent.com/BinaryVortex/Login-Form-108/main/Screenshot%202024-08-10%20234252.png)
 
 ## Features
 
-- Minimal, accessible HTML structure
-- Styled with CSS (responsive layout, centered form, focus states)
-- Basic JavaScript for form validation and UI feedback
-- Easy to customize (colors, fonts, layout)
+- Minimal, semantic HTML structure
+- Responsive CSS layout and focus/accessibility states
+- Small JavaScript for basic validation and UI feedback
+- Easy to customize (colors, fonts, background)
 
 ## Files
 
 - `index.html` — the login form markup
-- `style.css` — CSS styles for layout and appearance
+- `style.css` — styles for layout and appearance
 - `Screenshot 2024-08-10 234252.png` — project preview image
 - `anime-moon-landscape (1).jpg` — background/asset used in the design
 
-## How to use
+## Usage
 
-1. Clone or download this repository.
+1. Clone or download the repository:
+
+   git clone https://github.com/BinaryVortex/Login-Form-108.git
+
 2. Open `index.html` in your browser (double-click or right-click → Open with → your browser).
-3. Optionally modify `style.css` to change colors, fonts, or layout.
+3. Edit `style.css` to tweak colors, fonts, or layout. Update `index.html` if you want to add fields or change markup.
 
 ## Customization tips
 
 - To change the background image, replace `anime-moon-landscape (1).jpg` or update the CSS background property in `style.css`.
-- Update the form action or add real authentication logic if you intend to connect this to a back-end.
+- To connect the form to a server, add a back-end endpoint and update the form `action` (or handle submission with JavaScript / fetch).
 
 ## License
 
-This project is provided as-is for learning and demonstration purposes. Feel free to reuse or adapt the code for your own projects.
+This project is provided as-is for learning and demonstration. Feel free to reuse or adapt the code.
 
 ## Contact
 
-Created by BinaryVortex. For questions or suggestions, open an issue on this repository.
+Created by BinaryVortex. For questions or suggestions, open an issue on the repository.
